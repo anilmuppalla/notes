@@ -15,3 +15,8 @@
 * The product upon which one a labored so long appears to be obsolete upon completion.
 
 > Implementation of real products demands phasing and quantizing. The obsolescence of an implementation must be measured against other existing implementations, not against unrealized concepts. The challenge and the mission is to find real solutions to real problems on actual schedules with available resources.
+
+#### Schedule Slip
+
+More software projects have gone awry for lack of calendar time than anything else. This is because our techniques for estimating are poor developed. We confuse effort with progress. The schedule progress is poorly managed and the natural response to schedule slippage is adding more man power, which is like dousing fire with more gasoline.
+
